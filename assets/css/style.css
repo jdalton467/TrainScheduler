@@ -1,0 +1,21 @@
+
+.jumbotron{
+	background-color: #01d6bd;
+	text-align: center;
+}
+table{
+	padding:10px;
+}
+
+#panel-heading-schedule{
+	background-color: #01d6bd;
+}
+
+
+#panel-heading-form{
+	background-color: #01d6bd;
+}
+
+form{
+	padding: 10px;
+}
